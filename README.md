@@ -4,7 +4,7 @@
 This project showcases a simple yet visually appealing moon animation using HTML and CSS. The animation includes a rotating orbit and carefully styled moon elements.
 ## Demo
 
-You can see a live demo of the moon animation on theshaguntyagi.github.io/Moon/.
+You can see a live demo of the moon animation on [GitHub Pages](#theshaguntyagi.github.io/Moon/).
 
 ## Features
 
